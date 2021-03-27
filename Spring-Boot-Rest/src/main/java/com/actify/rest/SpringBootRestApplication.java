@@ -11,7 +11,4 @@ public class SpringBootRestApplication {
 		SpringApplication.run(SpringBootRestApplication.class, args);
 	}
 
-	public void test() {
-		System.out.println("Hello World!");
-	}
 }
